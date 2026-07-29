@@ -1,0 +1,28 @@
+{
+  "geode": "5.8.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "mbmb709.topdemons",
+  "name": "Top Demons",
+  "version": "v1.0.0",
+  "developer": "mbmb709",
+  "description": "Browse a verified Top 150 of rated Extreme Demons directly in Geometry Dash, with automatic ID correction, search, filters, paging, and quick refresh.",
+  "resources": {
+    "sprites": [
+      "resources/BGs/*.png",
+      "resources/icons/*.png",
+      "resources/flags_png/*.png"
+    ]
+  },
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  },
+  "tags": [
+    "online",
+    "interface"
+  ]
+}
